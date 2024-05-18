@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+
+    <link rel="stylesheet" href="./style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <img src="./assets/logo.png" alt="" />
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">Buy</a>
+          <a href="#">Sell</a>
+          <a href="#">Rent</a>
+          <a href="#">Feedback</a>
+          <a href="#">About Us</a>
+        </nav>
+        <button>Create account</button>
+        <img id="open-icon" src="./assets/menu.png" alt="" class="burger" />
+        <div id="slide-menu" class="slide-menu">
+          <img id="close-icon" src="./assets/close.png" alt="" />
+
+          <div class="links">
+            <a href="#">Home</a>
+            <a href="#">Buy</a>
+            <a href="#">Sell</a>
+            <a href="#">Rent</a>
+            <a href="#">Feedback</a>
+            <a href="#">About Us</a>
+            <button>Login</button>
+          </div>
+        </div>
+      </div>
+    </header>
+    <section class="hero-sec">
+      <div class="swiper mySwiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide">
+            <img src="./assets/home1.jpg" alt="" />
+            <div class="content">
+              <h1>REAL ESTATE</h1>
+              <h1>PRICE PREDICTION</h1>
+              <button>Discover More</button>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <img src="./assets/home2.jpg" alt="" />
+            <div class="content">
+              <h1>DISCOVER A PLACE</h1>
+              <h1>YOU'LL LOVE TO LIVE</h1>
+              <button>Discover More</button>
+            </div>
+          </div>
+          <div class="swiper-slide">
+            <img src="./assets/home3.jpg" alt="" />
+            <div class="content">
+              <h1>FIND YOUR</h1>
+              <h1>DREAM HOME</h1>
+              <button>Discover More</button>
+            </div>
+          </div>
+        </div>
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+      </div>
+    </section>
+    <section class="recently-sec">
+      <h1>RECENTLY ADDED PROPERTIES</h1>
+      <div class="container">
+        <div class="card">
+          <img src="./assets/added1.jpg" alt="" />
+          <div class="card-content">
+            <div class="details">
+              <p><i class="fa-solid fa-bed"></i> 5 bed</p>
+              <p><i class="fa-solid fa-bath"></i> 2 bath</p>
+              <p><i class="fa fa-compass"></i> 1203 sq ft</p>
+            </div>
+            <p>Palm Hills New Cairo</p>
+            <p>New Cairo,Cairo</p>
+            <button>More Details</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="./assets/added1.jpg" alt="" />
+          <div class="card-content">
+            <div class="details">
+              <p><i class="fa-solid fa-bed"></i> 5 bed</p>
+              <p><i class="fa-solid fa-bath"></i> 2 bath</p>
+              <p><i class="fa fa-compass"></i> 1203 sq ft</p>
+            </div>
+            <p>City View,Cairo-Alex Road</p>
+            <p>6th of October,Egypt</p>
+            <button>More Details</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="./assets/added1.jpg" alt="" />
+          <div class="card-content">
+            <div class="details">
+              <p><i class="fa-solid fa-bed"></i> 5 bed</p>
+              <p><i class="fa-solid fa-bath"></i> 2 bath</p>
+              <p><i class="fa fa-compass"></i> 1203 sq ft</p>
+            </div>
+            <p>Zamalek</p>
+            <p>Cairo,EG,Egypt</p>
+            <button>More Details</button>
+          </div>
+        </div>
+      </div>
+      <button class="veiw">View All</button>
+    </section>
+    <section class="Homes-sec">
+      <div class="container">
+        <div class="img-con">
+          <img src="./assets/Group 1.png" alt="" />
+        </div>
+        <div class="content">
+          <h1>We Help People To Find Homes</h1>
+          <p>
+            Recommendations are based on your location and search activity, such
+            as the homes you've viewed and saved and the filters you've used. We
+            use this information to bring similar homes to your attention, so
+            you don't miss out.
+          </p>
+          <button>Get In Touch</button>
+        </div>
+      </div>
+    </section>
+    <section class="contact-sec">
+      <h1>Contact us</h1>
+      <div class="container">
+        <form action="">
+          <input required type="text" placeholder="Name" />
+          <input required type="text" placeholder="Subject" />
+          <input required type="text" placeholder="Phone" />
+          <input required type="text" placeholder="Email" />
+          <textarea
+            required
+            name=""
+            id=""
+            rows="6"
+            placeholder="Message"
+          ></textarea>
+          <button type="submit">Submit</button>
+        </form>
+      </div>
+    </section>
+    <footer>
+      <div class="container">
+        <div class="col">
+          <h1>DAWARLY</h1>
+          <p>We can help you in different ways.</p>
+          <div class="social">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          </div>
+        </div>
+        <div class="col">
+          <h1>BUYING & SELLING</h1>
+          <a href="">Find a home</a>
+          <a href="">Sell your home</a>
+        </div>
+        <div class="col">
+          <h1>RESOURCES</h1>
+          <a href="">FAQ</a>
+          <a href="">Help Center</a>
+        </div>
+        <div class="col">
+          <h1>CONTACT</h1>
+          <div class="destails">
+            <a href=""><i class="fa-solid fa-house"></i> Alexandria, Egypt</a>
+            <a href=""><i class="fas fa-envelope"></i>DaWarly@gmail.com</a>
+            <a href=""><i class="fas fa-phone"></i> +20 115245234</a>
+            <a href=""><i class="fas fa-print"></i> +20 115245234</a>
+          </div>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>© 2024 Copyright</p>
+      </div>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="./main.js"></script>
+  </body>
+</html>
