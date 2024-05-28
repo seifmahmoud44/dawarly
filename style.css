@@ -61,7 +61,7 @@ header .container nav a {
 header .container nav a:hover {
   transform: scale(1.1) translate(-2px, -2px);
 }
-header .container > button {
+header .container > a {
   color: white;
   background-color: black;
   padding: 10px 20px;
