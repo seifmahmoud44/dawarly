@@ -1,27 +1,21 @@
-const menu = document.getElementById("left-menu");
-const burger = document.getElementById("burger-con");
-burger.onclick = () => {
-  menu.classList.toggle("active");
-};
-
-// function fetchProperties() {
-//   fetch("../../../assets/rent.json")
-//     .then((response) => response.json())
-//     .then((json) => (properties = json));
-// }
-// fetchProperties();
 let properties = [];
 
 function fetchProperties() {
-  fetch("../../../assets/rent.json")
+  fetch("../../assets/rent.json")
     .then((response) => response.json())
     .then((data) => {
       console.log(data);
       properties = data; // Assign data to properties
-      displayProperties(properties); // Display all properties initially
+      displayProperties(properties);
+      placeSearch(data); // Display all properties initially
     })
     .catch((error) => console.error("Error fetching properties:", error));
 }
+let uniqueAddresses = [];
+const placeSearch = (data) => {
+  uniqueAddresses = [...new Set(data.map((item) => item.address_egypt))];
+  console.log(uniqueAddresses);
+};
 
 function displayProperties(data) {
   const propertyList = document.querySelector(".cards-con");
@@ -48,20 +42,27 @@ function displayProperties(data) {
 
     propertyList.appendChild(card);
   });
+  const placeCon = document.getElementById("place-con");
+  uniqueAddresses.forEach((ele) => {
+    const place = document.createElement("option");
+    place.innerHTML = `
+    <option value=${ele}>${ele}</option>
+    `;
+    placeCon.appendChild(place);
+  });
 }
 
 function filterProperties() {
   const bedroomsFilter = document.getElementById("bed-count").value;
   const bathroomsFilter = document.getElementById("room-count").value;
-  const priceFilter = document.getElementById("price-count").value;
+  // const priceFilter = document.getElementById("price-count").value;
 
   const filteredProperties = properties.filter((property) => {
     return (
       (bedroomsFilter === "" ||
         property.Bedrooms >= parseInt(bedroomsFilter)) &&
       (bathroomsFilter === "" ||
-        property.Bathrooms >= parseInt(bathroomsFilter)) &&
-      (priceFilter === "" || property.rent >= parseInt(priceFilter))
+        property.Bathrooms >= parseInt(bathroomsFilter))
     );
   });
 
@@ -77,6 +78,6 @@ document.getElementById("bed-count").onchange = () => {
 document.getElementById("room-count").onchange = () => {
   filterProperties();
 };
-document.getElementById("price-count").onchange = () => {
-  filterProperties();
-};
+// document.getElementById("price-count").onchange = () => {
+//   filterProperties();
+// };

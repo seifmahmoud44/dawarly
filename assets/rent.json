@@ -1,0 +1,5442 @@
+[
+  {
+    "rent": 27000,
+    "Area": 380,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 260,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 160,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 222,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 290,
+    "Bedrooms": 5,
+    "Bathrooms": 5,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 146,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 153,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 94,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 130,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 167,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 229,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 120,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 25000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 184,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 178,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 108,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 145,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 168,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 127,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 155,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 121,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 145,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 163,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 210,
+    "Bedrooms": 4,
+    "Bathrooms": 5,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 238,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 119,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 169,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 150,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 282,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 85,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 134,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 158,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 154,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 400,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 400,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 22000,
+    "Area": 164,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 224,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 150,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 200,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 166,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 85,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Haram",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 179,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 183,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 125,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 189,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 600,
+    "Bedrooms": 5,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 210,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 170,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 106,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 200,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 123,
+    "Bedrooms": 1,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 260,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 110,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 360,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 195,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 260,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 185,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 124,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 90,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 3000,
+    "Area": 182,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 263,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 198,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 162,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 195,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 301,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 23000,
+    "Area": 370,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 21000,
+    "Area": 145,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 169,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 135,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 116,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 192,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 167,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 205,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 234,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 115,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 96,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 176,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 100,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 140,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 360,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "villa",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 244,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 108,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 155,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 179,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 147,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 230,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 300,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 100,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 121,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 90000,
+    "Area": 190,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 110,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 180,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 180,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 235,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 400,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 320,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 390,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 460,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 168,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 400,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 24000,
+    "Area": 125,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 420,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 25000,
+    "Area": 185,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 131,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 200,
+    "Bedrooms": 4,
+    "Bathrooms": 5,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 110,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 165,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 135,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 250,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 550,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 26000,
+    "Area": 105,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 161,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 204,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 177,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 220,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 135,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 198,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 153,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 335,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 180,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 280,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 260,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 210,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 143,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 169,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 191,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 157,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 112,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 110,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 130,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 236,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 108,
+    "Bedrooms": 3,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 280,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 277,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 155,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 134,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 175,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 210,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 110,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 199,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 100,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 141,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 95,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 116,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 400,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 170,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 157,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 145,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 115,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 21000,
+    "Area": 250,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 170,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 250,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "villa",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 125,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 175,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 165,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 250,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 155,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 3,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 350,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 250,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 21000,
+    "Area": 180,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 290,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 200,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 158,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 550,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 134,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 138,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 188,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 100,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 115,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 127,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 160,
+    "Bedrooms": 1,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 250,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 177,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 253,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 110,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 140,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 190,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 290,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 100,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 237,
+    "Bedrooms": 5,
+    "Bathrooms": 5,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 181,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 70,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 181,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 140,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 230,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 237,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 200,
+    "Bedrooms": 1,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 135,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 471,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 233,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 21000,
+    "Area": 120,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 162,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 450,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 96,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 263,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 270,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 133,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 96,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 157,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 157,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 131,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 300,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Haram",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 28000,
+    "Area": 200,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 114,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 133,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 216,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 317,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 179,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 158,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 155,
+    "Bedrooms": 3,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 129,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 190,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 110,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 176,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 168,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 174,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 215,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 174,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 169,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 450,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 175,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 174,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 205,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 80,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 63,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 4000,
+    "Area": 153,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 122,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 275,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 165,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 280,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 166,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 135,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 140,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 143,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 179,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 143,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 80,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 85,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 128,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 105,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 280,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 3,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 400,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 155,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 167,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 91,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 300,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 160,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 84,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 280,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 125,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 205,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 180,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 146,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 200,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 150,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 130,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 250,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 139,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 96,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 168,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 116,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 164,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 425,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 450,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "villa",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 22000,
+    "Area": 161,
+    "Bedrooms": 5,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 151,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 250,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 350,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 174,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 160,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 220,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 148,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 720,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "villa",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 157,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 28000,
+    "Area": 174,
+    "Bedrooms": 5,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 90,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "October",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Haram",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 250,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 125,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 240,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 174,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 135,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 115,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 240,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 330,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 185,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 90,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 350,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 225,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 100,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 135,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 140,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 69,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 3000,
+    "Area": 140,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 287,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 5,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 277,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 300,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 20000,
+    "Area": 150,
+    "Bedrooms": 5,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 120,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 250,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 64,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 175,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 3000,
+    "Area": 200,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 254,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 90,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 155,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 180,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 177,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 150,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 130,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 140,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 136,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 103,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 138,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 350,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 21000,
+    "Area": 140,
+    "Bedrooms": 5,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 145,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 95,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 167,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 2,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 167,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 266,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 105,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 300,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 209,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 19000,
+    "Area": 550,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 169,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 26000,
+    "Area": 130,
+    "Bedrooms": 6,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 137,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 225,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 166,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 130,
+    "Bedrooms": 4,
+    "Bathrooms": 4,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 155,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 211,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 140,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 157,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 3,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 165,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 7000,
+    "Area": 133,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 172,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 107,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 185,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 145,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 210,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Smouha",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 143,
+    "Bedrooms": 2,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 167,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 278,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 164,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 187,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 179,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 128,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 155,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 139,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 150,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 280,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 112,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 18000,
+    "Area": 90,
+    "Bedrooms": 5,
+    "Bathrooms": 4,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 135,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 135,
+    "Bedrooms": 1,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Nasr City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 180,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 220,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 160,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 144,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 180,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 164,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 175,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 135,
+    "Bedrooms": 4,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 190,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 130,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 170,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 11000,
+    "Area": 120,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 560,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 190,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 26000,
+    "Area": 120,
+    "Bedrooms": 5,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Madinaty",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 194,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Rehab City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Alamein",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 167,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "furnished"
+  },
+  {
+    "rent": 6000,
+    "Area": 70,
+    "Bedrooms": 1,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 235,
+    "Bedrooms": 3,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 3000,
+    "Area": 191,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 17000,
+    "Area": 187,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 166,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 15000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 13000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 10000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 1,
+    "Home_Type": "Single family",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 160,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "villa",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 205,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 120,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Capital City",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 122,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 207,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 8000,
+    "Area": 163,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 16000,
+    "Area": 100,
+    "Bedrooms": 4,
+    "Bathrooms": 3,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Heliopolis",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 14000,
+    "Area": 85,
+    "Bedrooms": 3,
+    "Bathrooms": 3,
+    "parking": 1,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 100,
+    "Bedrooms": 2,
+    "Bathrooms": 2,
+    "parking": 2,
+    "Home_Type": "Single family",
+    "address_egypt": "New Cairo - El Tagamoa",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 5000,
+    "Area": 150,
+    "Bedrooms": 2,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "rent": 9000,
+    "Area": 200,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "October",
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "rent": 12000,
+    "Area": 122,
+    "Bedrooms": 3,
+    "Bathrooms": 1,
+    "parking": 0,
+    "Home_Type": "Apartment",
+    "address_egypt": "Sheikh Zayed",
+    "furnishingstatus": "furnished"
+  }
+]

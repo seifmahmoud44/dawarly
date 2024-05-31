@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <link rel="stylesheet" href="../../style.css" />
+    <link rel="stylesheet" href="./search.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <img src="../../assets/logo.png" alt="" />
+        <nav>
+          <a href="#">Home</a>
+          <a href="#">Buy</a>
+          <a href="#">Sell</a>
+          <a href="#">Rent</a>
+          <a href="#">Feedback</a>
+          <a href="#">About Us</a>
+        </nav>
+        <a href="./pages/login/login.html">Create account</a>
+        <img id="open-icon" src="./assets/menu.png" alt="" class="burger" />
+        <div id="slide-menu" class="slide-menu">
+          <img id="close-icon" src="./assets/close.png" alt="" />
+
+          <div class="links">
+            <a href="#">Home</a>
+            <a href="#">Buy</a>
+            <a href="#">Sell</a>
+            <a href="#">Rent</a>
+            <a href="#">Feedback</a>
+            <a href="#">About Us</a>
+            <button>Login</button>
+          </div>
+        </div>
+      </div>
+    </header>
+    <div class="right-dash">
+      <div class="filter">
+        <form action="">
+          <input
+            style="flex-grow: 1"
+            type="text"
+            placeholder="Search Here..."
+          />
+
+          <select name="" style="flex-grow: 1" id="bed-count">
+            <option value="">all</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+          <select style="flex-grow: 1" name="" id="room-count">
+            <option value="">all</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+          <select style="flex-grow: 1" name="" id="place-con">
+            <option value="">all</option>
+          </select>
+        </form>
+      </div>
+      <div class="recommended">
+        <a href="#">Recommended</a>
+        <a href="#">Popular</a>
+        <a href="#">Neares</a>
+      </div>
+      <div class="cards-con"></div>
+    </div>
+    <footer>
+      <div class="container">
+        <div class="col">
+          <h1>DAWARLY</h1>
+          <p>We can help you in different ways.</p>
+          <div class="social">
+            <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+            <a href="#"><i class="fa-brands fa-twitter"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+          </div>
+        </div>
+        <div class="col">
+          <h1>BUYING & SELLING</h1>
+          <a href="">Find a home</a>
+          <a href="">Sell your home</a>
+        </div>
+        <div class="col">
+          <h1>RESOURCES</h1>
+          <a href="">FAQ</a>
+          <a href="">Help Center</a>
+        </div>
+        <div class="col">
+          <h1>CONTACT</h1>
+          <div class="destails">
+            <a href=""><i class="fa-solid fa-house"></i> Alexandria, Egypt</a>
+            <a href=""><i class="fas fa-envelope"></i>DaWarly@gmail.com</a>
+            <a href=""><i class="fas fa-phone"></i> +20 115245234</a>
+            <a href=""><i class="fas fa-print"></i> +20 115245234</a>
+          </div>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>© 2024 Copyright</p>
+      </div>
+    </footer>
+    <script src="./main.js"></script>
+  </body>
+</html>

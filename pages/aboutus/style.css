@@ -1,0 +1,143 @@
+.about-sec .container h1 {
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+
+.about-sec .container h1::after {
+  content: "";
+  position: absolute;
+  background-color: #65afc6;
+  width: 150px;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.about-sec .container p {
+  margin: 15px 0;
+}
+.about-sec .container img {
+  width: 100%;
+  margin: auto;
+}
+
+.vision-sec .container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 50px;
+}
+.vision-sec .container div {
+  width: 400px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.vision-sec .container div img {
+  width: 60px;
+  margin: auto;
+}
+.vision-sec .container div h1 {
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+.vision-sec .container div h1::after {
+  content: "";
+  position: absolute;
+  background-color: #65afc6;
+  width: 150px;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.team-sec .container h1 {
+  text-align: center;
+  padding: 10px;
+  position: relative;
+}
+.team-sec .container h1::after {
+  content: "";
+  position: absolute;
+  background-color: #65afc6;
+  width: 150px;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.team-sec .container .cards-con {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.team-sec .team-card img {
+  margin-bottom: 50px;
+}
+.team-sec .team-card .team-name {
+  font-weight: 600;
+  text-align: start;
+}
+.team-sec .team-card .team-position {
+  font-weight: 400;
+  text-align: start;
+  font-size: 15px;
+}
+.team-sec .team-card div {
+  width: fit-content;
+  margin: auto;
+}
+
+.feature-con .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+.feature-con h1 {
+  font-size: 50px;
+}
+.feature-con p {
+  font-weight: 600;
+}
+.feature-con .feature {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 50px;
+}
+.feature-con button {
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  margin: auto;
+  color: black;
+  font-weight: 600;
+  width: fit-content;
+  text-align: center;
+  background-color: #65aec6;
+  display: block;
+  font-size: 15px;
+}
+
+@media (max-width: 787px) {
+  .vision-sec .container {
+    flex-direction: column;
+  }
+  .team-sec .cards-con {
+    flex-direction: column;
+  }
+  .feature-con .container {
+    flex-direction: column;
+  }
+  .feature-con .container > img {
+    width: 100%;
+  }
+}
