@@ -1,0 +1,48 @@
+.price-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+}
+.feacherss {
+  width: 50%;
+}
+.beds-rooms {
+  display: flex;
+  justify-content: start;
+  gap: 30px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.beds-rooms p {
+  font-size: 20px;
+}
+.sq {
+  font-weight: 600;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.user {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  gap: 30px;
+}
+.user p:first-child {
+  font-weight: 600;
+  font-size: 18px;
+}
+
+@media (max-width: 787px) {
+  .price-details {
+    flex-direction: column;
+  }
+  .feacherss {
+    width: 100%;
+  }
+  .info {
+    margin-bottom: 20px;
+  }
+}

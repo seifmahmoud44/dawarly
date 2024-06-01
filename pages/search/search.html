@@ -53,10 +53,15 @@
     <div class="right-dash">
       <div class="filter">
         <form action="">
+          <select name="" id="sellorrent">
+            <option value="rent">rent</option>
+            <option value="sell">sell</option>
+          </select>
           <input
             style="flex-grow: 1"
             type="text"
             placeholder="Search Here..."
+            id="sqf"
           />
 
           <select name="" style="flex-grow: 1" id="bed-count">
@@ -77,6 +82,19 @@
           </select>
           <select style="flex-grow: 1" name="" id="place-con">
             <option value="">all</option>
+            <option value="Nasr City">Nasr City</option>
+            <option value="October">October</option>
+            <option value="Smouha">Smouha</option>
+            <option value="New Cairo - El Tagamoa">
+              New Cairo - El Tagamoa
+            </option>
+            <option value="Sheikh Zayed">Sheikh Zayed</option>
+            <option value="Alamein">Alamein</option>
+            <option value="Madinaty">Madinaty</option>
+            <option value="Rehab City">Rehab City</option>
+            <option value="New Capital City">New Capital City</option>
+            <option value="Haram">Haram</option>
+            <option value="Heliopolis">Heliopolis</option>
           </select>
         </form>
       </div>
@@ -85,7 +103,7 @@
         <a href="#">Popular</a>
         <a href="#">Neares</a>
       </div>
-      <div class="cards-con"></div>
+      <div class="cards-con" id="cards-con"></div>
     </div>
     <footer>
       <div class="container">
